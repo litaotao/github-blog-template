@@ -1,0 +1,24 @@
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+encoding: UTF-8
+gems: [jekyll-paginate]
+
+title: Github Blog Template
+url: http://litaotao.github.io
+feed: /atom.xml
+author_info: <a href="http://litaotao.github.io/">taotaoli</a>
+
+myblog:
+  gavatar: images/2.jpg
+  gpname: litaotao
+  linkedin: http://www.linkedin.com/in/taotaoli
+  github: https://github.com/litaotao
+  email: mailto:taotao.engineer@gmail.com
+  coverimgs: []
+  postbgimg: []
+
+categories: [python, books]
