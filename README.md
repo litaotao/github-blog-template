@@ -1,5 +1,9 @@
 # github-blog-template
 
+
+*各位看官，请给我的新 repo 一颗小星星，感谢感谢，哈哈哈* [Awesome-FinTech](https://github.com/litaotao/Awesome-FinTech)
+
+
 ***别忘了加星哦～～～***
 
 ## 写在前面
